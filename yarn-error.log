@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add -D @types/celebrate
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add node-rate-limiter-flexible
 
 PATH: 
   C:\Python27\;C:\Python27\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Users\guife\AppData\Local\Microsoft\WindowsApps;C:\Users\guife\AppData\Roaming\npm;C:\Users\guife\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\guife\AppData\Local\Yarn\bin;C:\Program Files\Docker Toolbox
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@types%2fcelebrate: Not found
+  Error: https://registry.yarnpkg.com/node-rate-limiter-flexible: Not found
       at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66084:18)
       at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140727:22)
       at Request.emit (events.js:311:20)
